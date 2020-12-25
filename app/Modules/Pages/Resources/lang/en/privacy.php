@@ -12,4 +12,5 @@
         'information_california_privacy' => 'Do California residents have specific privacy rights?',
         'information_notice' => 'Do we make updates to this notice?',
         'information_contact' => 'How can you contact us about this notice?',
+        'email' => 'info@resurge.com',
     ];

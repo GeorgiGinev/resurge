@@ -9,15 +9,15 @@
         </header>
 
         <div class="content">
-            Thank you for choosing to be part of our community at <span class="font-weight-bold">Teethstyle</span>
+            Thank you for choosing to be part of our community at <span class="font-weight-bold">@lang('basic.website_name')</span>
             ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to
             privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to
-            your personal information, please contact us at <span class="font-weight-bold">info@teethstyle.com</span>.
+            your personal information, please contact us at <span class="font-weight-bold">@lang('pages::privacy.email')</span>.
             <br/>
             <br/>
             <br/>
             When you visit our website <a href="{{route('index')}}" target="_blank" title="@lang('basic.website_name')"
-                                          data-custom-class="link">http://www.teethstyle.com</a> (the "<span
+                                          data-custom-class="link">@lang('basic.url')</a> (the "<span
                 class="font-weight-bold">Website</span>"), and more generally, use any of our services (the "<span
                 class="font-weight-bold">Services</span>", which include the   Website, we appreciate that you are
             trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we
@@ -466,7 +466,7 @@
             More information about our data collection and sharing practices can be found in this privacy notice.
             <br/>
             <br/>
-            You may contact us by email at info@teethstyle.com, or by referring to the contact details at the bottom of
+            You may contact us by email at @lang('pages::privacy.email'), or by referring to the contact details at the bottom of
             this document.
             <br/>
             <br/>
@@ -487,8 +487,8 @@
             personal data.
             <br/>
             <br/>
-            Teethstyle has not disclosed or sold any personal information to third parties for a business or commercial
-            purpose in the preceding 12 months. Teethstyle will not sell personal information in the future belonging to
+            @lang('basic.website_name') has not disclosed or sold any personal information to third parties for a business or commercial
+            purpose in the preceding 12 months. @lang('basic.website_name') will not sell personal information in the future belonging to
             website visitors, users and other consumers.
             <br/>
             <br/>
@@ -575,7 +575,7 @@
                 </li>
             </ul>
             <br/>
-            To exercise these rights, you can contact us by email at <b><u>info@teethstyle.com</u></b> or by referring
+            To exercise these rights, you can contact us by email at <b><u>@lang('pages::privacy.email')</u></b> or by referring
             to the contact details at the bottom of this document. If you have a complaint about how we handle your
             data, we would like to hear from you.
             <br/>
@@ -596,7 +596,7 @@
             <a name="information_contact"></a>
             <h4 class="text-uppercase">11. @lang('pages::privacy.information_contact')</h4>
             <br/>
-            If you have questions or comments about this notice, you may email us at <b><u>info@teethstyle.com</u></b>
+            If you have questions or comments about this notice, you may email us at <b><u>@lang('pages::privacy.email')</u></b>
         </div>
     </div>
 @endsection

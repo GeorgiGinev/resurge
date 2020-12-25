@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="83a8ecd2-2deb-4fdf-802a-6a9bb912d03c" name="Default Changelist" comment="Added mailchimp">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/resurge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/resurge.iml" afterDir="false" />
+    <list default="true" id="26b35a46-b382-442c-9ae0-b104ef6d95e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/images/product.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Modules/Index/Resources/lang/en/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Index/Resources/lang/en/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Modules/Index/Resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Index/Resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Modules/Pages/Resources/lang/en/privacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Pages/Resources/lang/en/privacy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Modules/Pages/Resources/views/privacy.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Pages/Resources/views/privacy.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Modules/Pages/Resources/views/terms.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Pages/Resources/views/terms.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/images/gforce-product.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/images/primary-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/scss/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/scss/components/_page_container.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/scss/layouts/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/layouts/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/scss/utils/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/utils/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/en/basic.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/basic.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,10 +177,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner scope="XML" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -196,13 +191,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="83a8ecd2-2deb-4fdf-802a-6a9bb912d03c" name="Default Changelist" comment="Added mailchimp" />
+      <changelist id="26b35a46-b382-442c-9ae0-b104ef6d95e1" name="Default Changelist" comment="" />
       <created>1608912376084</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608912376084</updated>
       <workItem from="1608912377210" duration="1360000" />
-      <workItem from="1608918773718" duration="912000" />
     </task>
     <servers />
   </component>
@@ -219,16 +213,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added mailchimp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added mailchimp" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608918986094">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1608918986094" />
   </component>
 </project>

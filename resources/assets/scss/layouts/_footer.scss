@@ -3,14 +3,15 @@
     padding: 10px 0;
 
     .logo {
-        color: rgba($tertiary-color, .1);
+        color: rgba($tertiary-color, .3);
+        transition: color $primary-transition ease-in-out;
 
         .logo-domain {
             @extend .logo;
         }
 
         &:hover {
-            color: rgba($tertiary-color, .1);
+            color: rgba($tertiary-color, .4);
         }
     }
 

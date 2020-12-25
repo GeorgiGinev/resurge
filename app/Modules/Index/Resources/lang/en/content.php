@@ -1,7 +1,7 @@
 <?php
     return [
-        'title' => 'G-Force Teeth - Give Fresh Breath & Healthy Smile!',
-        'subtitle' => 'A perfect smile makes the best impression. Feel great and look incredible!',
+        'title' => 'Resurge - Deep Sleep and HGH Support Formula',
+        'subtitle' => 'Now you can begin tapping into your body’s true potential easily, naturally and automatically... overnight!',
         'benefits' => 'Benefits',
         'benefits_title' => 'For Your Whole Body',
         'benefits_left_title' => 'More Good Flora in Your Mouth',
@@ -10,7 +10,7 @@
         'benefits_center_content' => 'Helps detoxify your liver and all bodily fluids.',
         'benefits_right_title' => 'Get Strong, Shiny Teeth',
         'benefits_right_content' => 'Look great and feel great with a new confidence and fresh breath.',
-        'subscribe' => 'Subscribe',
+        'subscribe' => 'Get it now!',
         'subscribe_and_continue' => 'Subscribe and continue',
         'subscribe_toastr' => 'Subscribe to find out about special offers and discounts.',
         'subscribe_field_name' => 'Name',
