@@ -3,10 +3,10 @@
 @section('content')
     <div class="animate__animated animate__fadeIn">
         <div class="row text-center text-md-left">
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 order-1 order-md-0 my-2">
                 <img class="img-fluid" src="{{asset('assets/images/product.png')}}" alt="@lang('basic.website_name')">
             </div>
-            <div class="col-12 col-md-6 text-center">
+            <div class="col-12 col-md-6 text-center order-0 order-md-1 my-2">
                 <header>
                     <h1>
                         @lang('index::content.title')
@@ -53,23 +53,23 @@
                     </form>
                 </section>
             </div>
-            <footer class="my-4">
-                <div class="row align-items-center">
-                    <div class="col-12 col-md-8 col-lg-10 order-1 order-md-0">
-                        <p class="text-left">This product is backed by a 100% money back guarantee for 60 full days from your original
-                            purchase. If you're not totally and completely satisfied with this product, your results or your
-                            experience in the first 60 days from your purchase simply let us know by calling our toll free
-                            number or dropping us an email and we'll give you a full refund within 48 hours of the product
-                            being returned. That's right, simply return the product, even empty bottles, anytime within 60
-                            days of your purchase and you'll receive a full, no questions asked refund (less shipping and
-                            handling).</p>
-                    </div>
-                    <div class="col-12 col-md-4 col-lg-2 order-0 order-md-1">
-                        <img class="img-fluid" src="{{asset('assets/images/badge.png')}}" alt="@lang('basic.website_name')" />
-                    </div>
-                </div>
-            </footer>
         </div>
+        <footer class="my-4">
+            <div class="row text-center align-items-center">
+                <div class="col-12 col-md-8 col-lg-10 order-1 order-md-0">
+                    <p class="text-left">This product is backed by a 100% money back guarantee for 60 full days from your original
+                        purchase. If you're not totally and completely satisfied with this product, your results or your
+                        experience in the first 60 days from your purchase simply let us know by calling our toll free
+                        number or dropping us an email and we'll give you a full refund within 48 hours of the product
+                        being returned. That's right, simply return the product, even empty bottles, anytime within 60
+                        days of your purchase and you'll receive a full, no questions asked refund (less shipping and
+                        handling).</p>
+                </div>
+                <div class="col-12 col-md-4 col-lg-2 order-0 order-md-1">
+                    <img class="img-fluid" src="{{asset('assets/images/badge.png')}}" alt="@lang('basic.website_name')" />
+                </div>
+            </div>
+        </footer>
 
         @push('scripts')
             <script>
