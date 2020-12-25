@@ -6,7 +6,7 @@
 
     <link rel="stylesheet" href="{{asset('assets/css/app.css')}}">
     <link rel="icon" type="image/png" href="{{asset('favicon.png')}}"/>
-    <title>TeethStyle.com</title>
+    <title>@lang('basic.website_name')</title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K3RQQJW7PZ"></script>
     <script>
