@@ -2,11 +2,11 @@
 
 @section('content')
     <div class="animate__animated animate__fadeIn">
-        <div class="row text-center">
+        <div class="row text-center text-md-left">
             <div class="col-12 col-md-6">
                 <img class="img-fluid" src="{{asset('assets/images/product.png')}}" alt="@lang('basic.website_name')">
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 text-center">
                 <header>
                     <h1>
                         @lang('index::content.title')
