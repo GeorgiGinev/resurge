@@ -55,7 +55,7 @@
             </div>
             <footer class="my-4">
                 <div class="row align-items-center">
-                    <div class="col-12 col-md-8 col-lg-10">
+                    <div class="col-12 col-md-8 col-lg-10 order-1 order-md-0">
                         <p class="text-left">This product is backed by a 100% money back guarantee for 60 full days from your original
                             purchase. If you're not totally and completely satisfied with this product, your results or your
                             experience in the first 60 days from your purchase simply let us know by calling our toll free
@@ -64,7 +64,7 @@
                             days of your purchase and you'll receive a full, no questions asked refund (less shipping and
                             handling).</p>
                     </div>
-                    <div class="col-12 col-md-4 col-lg-2">
+                    <div class="col-12 col-md-4 col-lg-2 order-0 order-md-1">
                         <img class="img-fluid" src="{{asset('assets/images/badge.png')}}" alt="@lang('basic.website_name')" />
                     </div>
                 </div>

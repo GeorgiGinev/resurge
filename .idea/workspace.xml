@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26b35a46-b382-442c-9ae0-b104ef6d95e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/images/product.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Modules/Index/Resources/lang/en/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Index/Resources/lang/en/content.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Modules/Index/Resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Index/Resources/views/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Modules/Pages/Resources/lang/en/privacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Pages/Resources/lang/en/privacy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Modules/Pages/Resources/views/privacy.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Pages/Resources/views/privacy.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Modules/Pages/Resources/views/terms.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Pages/Resources/views/terms.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/images/gforce-product.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/images/primary-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/scss/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/base/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/scss/components/_page_container.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/scss/layouts/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/layouts/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/scss/utils/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/scss/utils/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/basic.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/basic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,6 +180,14 @@
       <updated>1608912376084</updated>
       <workItem from="1608912377210" duration="1360000" />
     </task>
+    <task id="LOCAL-00001" summary="Redesign.">
+      <created>1608920810621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608920810621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,5 +203,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Redesign." />
+    <option name="LAST_COMMIT_MESSAGE" value="Redesign." />
   </component>
 </project>
