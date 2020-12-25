@@ -2,7 +2,7 @@
     <footer class="footer d-block d-sm-flex text-center text-md-left">
         <div class="flex-grow-1">
             <a class="logo" title="@lang('basic.logo')" href="{{route('index')}}">
-                <img class="img-fluid" src="{{asset('assets/images/logo.png')}}" alt="@lang('basic.website_name')" />
+                @lang('basic.website')
             </a>
             <div class="reserved">
                 <p class="font-weight-bold">
