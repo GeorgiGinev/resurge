@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83a8ecd2-2deb-4fdf-802a-6a9bb912d03c" name="Default Changelist" comment="Added mailchimp">
+    <list default="true" id="83a8ecd2-2deb-4fdf-802a-6a9bb912d03c" name="Default Changelist" comment="Removed name from mailchimp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Modules/Index/Http/Controllers/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Index/Http/Controllers/IndexController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,8 +206,17 @@
       <option name="presentableId" value="Default" />
       <updated>1608912376084</updated>
       <workItem from="1608912377210" duration="1360000" />
-      <workItem from="1608979143148" duration="85000" />
+      <workItem from="1608979143148" duration="247000" />
+      <workItem from="1608979484128" duration="9000" />
     </task>
+    <task id="LOCAL-00001" summary="Removed name from mailchimp">
+      <created>1608979251271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608979251272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +233,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed name from mailchimp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed name from mailchimp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608920896449">
@@ -251,9 +263,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1608921286709" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608922032810">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1608979253842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1608922032810" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608979253842" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608979349977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1608979349977" />
   </component>
 </project>
