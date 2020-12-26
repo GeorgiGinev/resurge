@@ -38,7 +38,7 @@ class IndexController extends Controller
         $notification = array();
 
         if ( ! Newsletter::isSubscribed($request->email) ) {
-            Newsletter::subscribe($request->email,['FNAME'=>$request->name]);
+            Newsletter::subscribe($request->email);
            // $notification['alert-type'] = 'success';
             return redirect()->to('https://46150446yfq3uj4qrj4ijb4o7r.hop.clickbank.net/');
         } else {
