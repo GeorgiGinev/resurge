@@ -1,7 +1,7 @@
 <?php
     return [
         'title' => 'Resurge - Deep Sleep and HGH Support Formula',
-        'subtitle' => 'Now you can begin tapping into your body’s true potential easily, naturally and automatically... overnight!',
+        'subtitle' => 'Now you can begin tapping into your body’s true potential easily, naturally and automatically... overnight',
         'benefits' => 'Benefits',
         'benefits_title' => 'For Your Whole Body',
         'benefits_left_title' => 'More Good Flora in Your Mouth',

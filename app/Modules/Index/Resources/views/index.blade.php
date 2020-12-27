@@ -21,18 +21,6 @@
                         <div class="flex-grow-1">
                             <div class="form-group">
                                 <label
-                                    for="subscribePassword">@lang('index::content.subscribe_field_name')</label>
-                                <input
-                                    type="text"
-                                    name="name"
-                                    class="form-control"
-                                    id="subscribePassword"
-                                    placeholder="@lang('index::content.subscribe_field_name')"
-                                    required
-                                >
-                            </div>
-                            <div class="form-group">
-                                <label
                                     for="subscribeEmail">@lang('index::content.subscribe_field_email')</label>
                                 <input
                                     type="email"
@@ -96,11 +84,11 @@
                 {
                     "@context": "http://schema.org/",
                     "@type": "Product",
-                    "name": "G-Force Whitening teeth",
-                    "image": "{{asset('assets/images/gforce-product.png')}}",
-                    "description": "The powerful antioxidants in G-force help to detoxify your liver and all bodily fluids, resulting in alkaline, bacteria-fighting saliva, strong gums and teeth..",
-                    "sku": "G-Force",
-                    "brand": "G-Force",
+                    "name": "@lang('pages::content.title')",
+                    "image": "{{asset('assets/images/product.png')}}",
+                    "description": "@lang('pages::content.subtitle')",
+                    "sku": "@lang('content.website_name')",
+                    "brand": "@lang('content.website_name')",
                     "aggregateRating": [{
                         "@type": "AggregateRating",
                         "ratingValue": "5",
